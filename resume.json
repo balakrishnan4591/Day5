@@ -1,0 +1,39 @@
+{
+  "aboutMe": {
+    "name": "Balakrishnan D",
+    "email": "balakrishnan4591@gmail.com",
+    "phone": "88848xxx73",
+
+    "location": {
+      "address": "xyz",
+      "postalCode": 123456,
+      "city": "Theni",
+      "state": "TamilNadu"
+    },
+    "education": {
+      "university": "BITS",
+      "degree": "MS in Software Engineering",
+      "cgpa": 6.55,
+      "passOut": 2016
+    },
+    "portfolio": {
+      "github": "https://github.com/balakrishnan4591",
+      "website": "https://www.youtube.com/chattyrotty"
+    },
+    "work": {
+      "company": "wipro",
+      "position": "Senior Technical Support Engineer"
+    },
+    "skills": {
+      "tech": "javascript, reactjs, html5, css",
+      "level": "beginner",
+      "project": "Nil"
+    },
+    "languages": {
+      "language": "Tamil, English, Malayalam, Hindi"
+    },
+    "hobbies": {
+      "hobby": "Football, YouTuber"
+    }
+  }
+}
