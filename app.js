@@ -25,7 +25,7 @@ function appendText() {
 
       //console.log(data.aboutMe.work); // if we need the complete  'work' key/value pair, then we can grab it like this
 
-      //traditional for loop
+      //traditional for Loop
       //using for loop we can iterate the list of values inside a particular key/value pair.
       //In this case we are pulling individual values from 'work'
       for (var i = 0; i < Object.keys(data.aboutMe.work).length; i++) {
