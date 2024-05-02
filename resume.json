@@ -20,20 +20,54 @@
       "github": "https://github.com/balakrishnan4591",
       "website": "https://www.youtube.com/chattyrotty"
     },
-    "work": {
-      "company": "wipro",
-      "position": "Senior Technical Support Engineer"
-    },
-    "skills": {
-      "tech": "javascript, reactjs, html5, css",
-      "level": "beginner",
-      "project": "Nil"
-    },
+    "work": [
+      {
+        "id": 1,
+        "company": "wipro",
+        "position": "Senior Product Support Engineer"
+      },
+      {
+        "id": 2,
+        "company": "alvaria",
+        "position": "Senior Technical Support Engineer"
+      }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "description": " This project supports multiple Products such as CXP, Prophecy, VIA, Evolution, Verify for which we provide enterprise contact center solutions.",
+        "Duration": "Feb 2020 - Till date",
+        "role": "Senior Product Support Engineer"
+      },
+      {
+        "id": 2,
+        "description": "This project involves developing a website for online game testers where they can download latest game builds and do test with the help of live chats, log the bugs, pipeline the issues.",
+        "Duration": "March 2018 - Jan 2020",
+        "role": "Senior Developer"
+      }
+    ],
+    "skills": [
+      {
+        "id": 1,
+        "tech": "javascript",
+        "level": "intermediate"
+      },
+      {
+        "id": 2,
+        "tech": "reactjs",
+        "level": "beginner"
+      },
+      {
+        "id": 3,
+        "tech": "HTML5",
+        "level": "intermediate"
+      }
+    ],
     "languages": {
-      "language": "Tamil, English, Malayalam, Hindi"
+      "language": ["Tamil", "English", "Malayalam", "Hindi"]
     },
     "hobbies": {
-      "hobby": "Football, YouTuber"
+      "hobby": ["Football", "YouTuber"]
     }
   }
 }
